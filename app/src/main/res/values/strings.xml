@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Restaurants in Surrey</string>
+    <string name="singleRestaurant_activity_name">Detail of Single Restaurant</string>
+    <string name="singleReport_activity_name">Detail of Violation</string>
+    <string name="no_inspection">No Inspection</string>
+    <string name="last_inspection">Last Inspection : %s </string>
+    <string name="issued_found">%d Issues Found</string>
+    <string name="none">None</string>
+    <string name="update_fav_text">Updated Favourite Restaurants, Click OK to Proceed</string>
+
+    <!-- For start restaurant Activity -->
+    <string name="update_title">Update Available!</string>
+    <string name="update_message">Would you like to update the current data?</string>
+    <string name="update_yes">Update</string>
+    <string name="update_no">Cancel</string>
+    <string name="update_message_wait">Updating Please Wait</string>
+
+    <!-- For maps Activity -->
+    <string name="hazard_description">Hazard level of recent inspection:</string>
+    <string name="see_info">See more info</string>
+    <string name="unable">Unable to get current location</string>
+
+    <!-- For single restaurant Activity -->
+    <string name="name_title">Name</string>
+    <string name="restaurantName">%s</string>
+    <string name="address_title">Address</string>
+    <string name="address">%s, %s</string>
+    <string name="coords_title">GPS Coordinates</string>
+    <string name="coords">%sN, %sW</string>
+    <string name="inspectionReport_title">Inspection Reports</string>
+    <string name="report_subtitle">Hazard Rate   |  Report Description</string>
+    <string name="report_list_fill">
+        " Date : %s \n"
+    "# critical issues : %d\n"
+    "# non-critical issues: %d"</string>
+    <string name="hazardHigh">HIGH</string>
+    <string name="hazardMod">Moderate</string>
+    <string name="hazardLow">Low</string>
+
+    <!-- For Violation Report Activity -->
+    <string name="hazard_level">Hazard Level:</string>
+    <string name="violationText">SampleText</string>
+    <string name="critical">Critical</string>
+    <string name="defaultTextView">TextView</string>
+    <string name="inspection_type">Inspection Type : %s</string>
+    <string name="critical_issue">Critical issues Found : %s </string>
+    <string name="non_critical_issue">Non-critical issues Found : %s </string>
+    <string name="regulation">Regulation Violation</string>
+    <string name="hazard_food">Hazardous Food</string>
+    <string name="unsanitary">Unsanitary environment</string>
+    <string name="pest">Pest issue</string>
+    <string name="equipment">Improper equipment</string>
+    <string name="chemical">Chemical label is improper</string>
+    <string name="premise">Premises</string>
+    <string name="animal">Unapproved animal found</string>
+    <string name="employee">Employee sanitary issue</string>
+    <string name="foodsafe">Lack of FOODSAFE certificate</string>
+
+    <!-- For Misc -->
+    <string name="connected_title">New Data Available On The Site</string>
+    <string name="notConnected_title">Cannot Check For Updates</string>
+    <string name="updating_title">Updating Data…</string>
+    <string name="description">Would you like to download it?</string>
+    <string name="notConnected_description">Device Is Not Connected To Internet</string>
+    <string name="yesButton">Yes</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="noButton">No</string>
+    <string name="okButton">OK</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_to_list">Go to List</string>
+    <string name="button1">List</string>
+    <string name="map">Map</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip Code</string>
+    <string name="title_surrey">List of Restaurants In Surrey</string>
+
+    <!-- For Advanced Option Dialog Box -->
+    <string name="search_dialog">Search</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="must_be_favorited_dialog">Must be Favorited</string>
+    <string name="critical_violations_dialog"># critical violations</string>
+    <string name="low_moderate_or_high_dialog">low, moderate or high</string>
+    <string name="enter_name_dialog">Enter name</string>
+    <string name="dialog_desc">Leaving a textbox blank or supplying incorret data means you would NOT like to include that filter in advanced search</string>
+    <string name="_1_name_dialog">1. Name:</string>
+    <string name="_2_hazard_level_dialog">2. Hazard Level:</string>
+    <string name="_3_critical_violations_dialog">3. Critical violations:</string>
+    <string name="reset">Reset</string>
+
+
+</resources>

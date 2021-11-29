@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="downloadDialog_fontSize_primary">30sp</dimen>
+    <dimen name="downloadDialog_fontSize_secondary">24sp</dimen>
+    <dimen name="downloadDialog_fontSize_tertiary">22sp</dimen>
+</resources>

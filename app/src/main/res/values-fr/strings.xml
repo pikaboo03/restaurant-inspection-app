@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Restaurants à Surrey</string>
+    <string name="singleRestaurant_activity_name">Detail of Single Restaurant</string>
+    <string name="singleReport_activity_name">Détail du restaurant unique</string>
+    <string name="no_inspection">Pas de Inspection</string>
+    <string name="last_inspection">Dernière inspection : %s </string>
+    <string name="issued_found">%d Questions trouvé</string>
+    <string name="none">Aucune</string>
+    <string name="update_fav_text">Restaurants préférés mis à jour, cliquez sur cocher pour continuer</string>
+
+    <!-- For start restaurant Activity -->
+    <string name="update_title">Mise à jour disponible!</string>
+    <string name="update_message">Souhaitez-vous mettre à jour les données actuelles?</string>
+    <string name="update_yes">Mettre à jour</string>
+    <string name="update_no">Annuler</string>
+    <string name="update_message_wait">Updating Please Wait</string>
+
+    <!-- For maps Activity -->
+    <string name="hazard_description">Niveau de risque de l\'inspection récente:</string>
+    <string name="see_info">En savoir plus</string>
+    <string name="unable">No se puede obtener la ubicación actual</string>
+
+    <!-- For single restaurant Activity -->
+    <string name="name_title">Nom</string>
+    <string name="restaurantName">%s</string>
+    <string name="address_title">Adresse</string>
+    <string name="address">%s, %s</string>
+    <string name="coords_title">Les coordonnées GPS</string>
+    <string name="coords">%sN, %sW</string>
+    <string name="inspectionReport_title">Rapports d\'inspection</string>
+    <string name="report_subtitle">Taux de danger   |  Description du rapport</string>
+    <string name="report_list_fill">
+        " Date : %s \n"
+    "# des problèmes critiques : %d\n"
+    "# problèmes non critiques: %d"</string>
+    <string name="hazardHigh">HAUTE</string>
+    <string name="hazardMod">Modérer</string>
+    <string name="hazardLow">Faible</string>
+
+    <!-- For Violation Report Activity -->
+    <string name="hazard_level">Niveau de danger:</string>
+    <string name="violationText">SampleText</string>
+    <string name="critical">Critique</string>
+    <string name="defaultTextView">TextView</string>
+    <string name="inspection_type">Type d\'inspection : %s</string>
+    <string name="critical_issue">Problèmes critiques détectés : %s </string>
+    <string name="non_critical_issue">Problèmes non critiques détectés : %s </string>
+    <string name="regulation">Violation du règlement</string>
+    <string name="hazard_food">Aliments dangereux</string>
+    <string name="unsanitary">Environnement insalubre</string>
+    <string name="pest">Problème de ravageurs</string>
+    <string name="equipment">Équipement inapproprié</string>
+    <string name="chemical">L\'étiquette chimique est incorrecte</string>
+    <string name="premise">Locaux</string>
+    <string name="animal">Animal non approuvé trouvé</string>
+    <string name="employee">Problème sanitaire des employés</string>
+    <string name="foodsafe">Absence de certificat FOODSAFE</string>
+
+    <!-- For Misc -->
+    <string name="connected_title">Nouvelles données disponibles sur le site</string>
+    <string name="notConnected_title">Impossible de rechercher les mises à jour</string>
+    <string name="updating_title">Mise à jour des données…</string>
+    <string name="description">Souhaitez-vous le télécharger?</string>
+    <string name="notConnected_description">L\'appareil n\'est pas connecté à Internet</string>
+    <string name="yesButton">Oui</string>
+    <string name="cancelButton">Annuler</string>
+    <string name="noButton">Non</string>
+    <string name="okButton">OK</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="go_to_list">Aller à la liste</string>
+    <string name="button1">Liste</string>
+    <string name="map">Carte</string>
+    <string name="enter_address_city_or_zip_code">Entrez l\'adresse, la ville ou le code postal</string>
+    <string name="title_surrey">Liste des restaurants à Surrey</string>
+
+    <!-- For Advanced Option Dialog Box -->
+    <string name="search_dialog">Chercher</string>
+    <string name="cancel_dialog">Annuler</string>
+    <string name="must_be_favorited_dialog">Doit être ajouté aux favoris</string>
+    <string name="critical_violations_dialog">#violations critiques</string>
+    <string name="low_moderate_or_high_dialog">faible, modéré ou élevé</string>
+    <string name="enter_name_dialog">Entrez le nom</string>
+    <string name="dialog_desc">Laisser une zone de texte vide ou fournir des données incorret signifie que vous ne souhaitez PAS inclure ce filtre dans la recherche avancée</string>
+    <string name="_1_name_dialog">1. Nom:</string>
+    <string name="_2_hazard_level_dialog">2.Niveau de danger:</string>
+    <string name="_3_critical_violations_dialog">3.Violations critiques:</string>
+    <string name="reset">réinitialiser</string>
+
+
+</resources>
